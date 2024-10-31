@@ -5,7 +5,8 @@ I specialize in Python and Docker, focusing on Generative AI, Agentic Systems, a
 
 Machine Learning (ML)<br>Natural Language Processing (NLP)<br>Large Language Models (LLMs)<br>Deep Learning<br>Computer Vision<br>Complex Data Analysis (medical applications).
 # Current Learning Focus:
-I'm enhancing my skills in:<br>Advanced Neural Networks<br>Python and Java Development<br>TensorFlow (generative AI and LLMs).
+### I'm enhancing my skills in:
+<br>Advanced Neural Networks<br>Python and Java Development<br>TensorFlow (generative AI and LLMs).
 **Topics of Interest:**
 # Let’s connect to discuss:
 Deep Learning<br>Data Science applications<br>Generative AI<br>
