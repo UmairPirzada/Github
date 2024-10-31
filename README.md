@@ -12,7 +12,9 @@ I specialize in Python and Docker, focusing on Generative AI, Agentic Systems, a
 # Current Learning Focus:
 ### I'm enhancing my skills in:
 
-Advanced Neural Networks<br>Python and Java Development<br>TensorFlow (generative AI and LLMs).
+- Advanced Neural Networks
+- Python and Java Development
+- TensorFlow (generative AI and LLMs).
 **Topics of Interest:**
 # Let’s connect to discuss:
 - Deep Learning
