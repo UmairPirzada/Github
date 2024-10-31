@@ -15,8 +15,8 @@ I specialize in Python and Docker, focusing on Generative AI, Agentic Systems, a
 - Advanced Neural Networks
 - Python and Java Development
 - TensorFlow (generative AI and LLMs).
-**Topics of Interest:**
-# Let’s connect to discuss:
+# Topics of Interest:
+### Let’s connect to discuss:
 - Deep Learning
 - Data Science applications-
 - Generative AI
