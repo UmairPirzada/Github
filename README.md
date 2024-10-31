@@ -18,7 +18,7 @@ I specialize in Python and Docker, focusing on Generative AI, Agentic Systems, a
 # Topics of Interest:
 ### Let’s connect to discuss:
 - Deep Learning
-- Data Science applications-
+- Data Science applications
 - Generative AI
 # Fun Fact:
 I am passionate about advancing AI and machine learning.
