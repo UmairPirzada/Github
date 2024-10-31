@@ -11,7 +11,7 @@ I am passionate about advancing AI and machine learning.
 
 
 ## 🌐 Socials:
-[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umair-pirzada-91a1a2214?
+[!LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umair-pirzada-91a1a2214?
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/umairpirzada07/profilecard/?igsh=MWJvb2FoNWFnMDZsdQ==) 
 
 # 💻 Tech Stack:
