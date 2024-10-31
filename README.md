@@ -1,7 +1,7 @@
 # 💫 About Me:
 I specialize in Python and Docker, focusing on Generative AI, Agentic Systems, and Natural Language Processing (NLP).  I create intelligent solutions using advanced technologies.
 # Collaboration Opportunities:
-##### I welcome projects in:
+### I welcome projects in:
 
 Machine Learning (ML)<br>Natural Language Processing (NLP)<br>Large Language Models (LLMs)<br>Deep Learning<br>Computer Vision<br>Complex Data Analysis (medical applications).
 # Current Learning Focus:
