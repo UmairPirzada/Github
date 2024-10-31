@@ -1,5 +1,13 @@
 # 💫 About Me:
-💫 About Me:<br>I specialize in Python and Docker, focusing on Generative AI, Agentic Systems, and Natural Language Processing (NLP). I create intelligent solutions using advanced technologies.<br>Collaboration Opportunities<br>I welcome projects in:<br>Machine Learning (ML)<br>Natural Language Processing (NLP)<br>Large Language Models (LLMs)<br>Deep Learning<br>Computer Vision<br>Complex Data Analysis (medical applications)<br>Current Learning Focus<br>I'm enhancing my skills in:<br>Advanced Neural Networks<br>Python and Java Development<br>TensorFlow (generative AI and LLMs)<br>Topics of Interest<br>Let’s connect to discuss:<br>Deep Learning<br>Data Science applications<br>Generative AI<br>Fun Fact<br>I am passionate about advancing AI and machine learning.
+### 💫 About Me:<br>
+I specialize in Python and Docker, focusing on Generative AI, Agentic Systems, and Natural Language Processing (NLP). I create intelligent solutions using advanced technologies.
+### Collaboration Opportunities:
+I welcome projects in:<br>Machine Learning (ML)<br>Natural Language Processing (NLP)<br>Large Language Models (LLMs)<br>Deep Learning<br>Computer Vision<br>Complex Data Analysis (medical applications).
+### Current Learning Focus:
+I'm enhancing my skills in:<br>Advanced Neural Networks<br>Python and Java Development<br>TensorFlow (generative AI and LLMs).
+# Topics of Interest.
+### Let’s connect to discuss:
+Deep Learning<br>Data Science applications<br>Generative AI<br>Fun Fact<br>I am passionate about advancing AI and machine learning.
 
 
 ## 🌐 Socials:
